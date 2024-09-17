@@ -27,12 +27,12 @@
 | [![angular](https://img.shields.io/badge/angular-030712?style=for-the-badge&logo=angular)](https://angular.dev/) | `[![reactnative](https://img.shields.io/badge/angular-030712?style=for-the-badge&logo=angular)](https://angular.dev/)` |
 | [![spring-boot](https://img.shields.io/badge/spring_boot-030712?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot) | `[![spring-boot](https://img.shields.io/badge/springboot-030712?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)` |
 | [![fastify](https://img.shields.io/badge/fastify-030712?style=for-the-badge&logo=fastify)](https://fastify.dev/) | `[![fastify](https://img.shields.io/badge/fastify-030712?style=for-the-badge&logo=fastify)](https://fastify.dev/)` |
+| [![vite js](https://img.shields.io/badge/vitejs-030712?style=for-the-badge&logo=vite)](https://vitejs.dev/) | `[![vite js](https://img.shields.io/badge/vitejs-030712?style=for-the-badge&logo=vite)](https://vitejs.dev/)` |
 
 ### Libraries
 | Badge | URL |
 | ----- | --- |
 | [![React](https://img.shields.io/badge/react-030712?style=for-the-badge&logo=react)](https://react.dev/) | `[![React](https://img.shields.io/badge/react-030712?style=for-the-badge&logo=react)](https://react.dev/)` |
-| [![vite js](https://img.shields.io/badge/vitejs-030712?style=for-the-badge&logo=vite)](https://vitejs.dev/) | `[![vite js](https://img.shields.io/badge/vitejs-030712?style=for-the-badge&logo=vite)](https://vitejs.dev/)` |
 | [![zod](https://img.shields.io/badge/zod-030712?style=for-the-badge&logo=zod)](https://zod.dev/) | `[![zod](https://img.shields.io/badge/zod-3E67B1?style=for-the-badge&logo=zod)](https://zod.dev/)` |
 | [![react-hook-form](https://img.shields.io/badge/react_hook_form-030712?style=for-the-badge&logo=reacthookform)](https://react-hook-form.com/) | `[![react-hook-form](https://img.shields.io/badge/react_hook_form-030712?style=for-the-badge&logo=reacthookform)](https://react-hook-form.com/)` |
 | [![radix ui](https://img.shields.io/badge/radix_ui-030712?style=for-the-badge&logo=radixui)](https://www.radix-ui.com/) | `[![radix ui](https://img.shields.io/badge/radix_ui-030712?style=for-the-badge&logo=radixui)](https://www.radix-ui.com/)` |
