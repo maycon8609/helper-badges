@@ -26,6 +26,7 @@
 | [![angular js](https://img.shields.io/badge/angularJS-030712?style=for-the-badge&logo=angular)](https://angularjs.org/) | `[![reactnative](https://img.shields.io/badge/reactnative-030712?style=for-the-badge&logo=react)](https://angularjs.org/)` |
 | [![angular](https://img.shields.io/badge/angular-030712?style=for-the-badge&logo=angular)](https://angular.dev/) | `[![reactnative](https://img.shields.io/badge/angular-030712?style=for-the-badge&logo=angular)](https://angular.dev/)` |
 | [![spring-boot](https://img.shields.io/badge/spring_boot-030712?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot) | `[![spring-boot](https://img.shields.io/badge/springboot-030712?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)` |
+| [![fastify](https://img.shields.io/badge/fastify-030712?style=for-the-badge&logo=fastify)](https://fastify.dev/) | `[![fastify](https://img.shields.io/badge/fastify-030712?style=for-the-badge&logo=fastify)](https://fastify.dev/)` |
 
 ### Libraries
 | Badge | URL |
@@ -38,7 +39,6 @@
 | [![react query](https://img.shields.io/badge/react_query-030712?style=for-the-badge&logo=reactquery)](https://tanstack.com/query/latest) | `[![react query](https://img.shields.io/badge/react_query-030712?style=for-the-badge&logo=reactquery)](https://tanstack.com/query/latest)` |
 | [![tailwindcss](https://img.shields.io/badge/tailwindcss-030712?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/) | `[![tailwindcss](https://img.shields.io/badge/tailwindcss-030712?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)` |
 | [![drizzle orm](https://img.shields.io/badge/drizzle_orm-030712?style=for-the-badge&logo=drizzle)](https://orm.drizzle.team/) | `[![drizzle orm](https://img.shields.io/badge/drizzle_orm-030712?style=for-the-badge&logo=drizzle)](https://orm.drizzle.team/)` |
-| [![fastify](https://img.shields.io/badge/fastify-030712?style=for-the-badge&logo=fastify)](https://fastify.dev/) | `[![fastify](https://img.shields.io/badge/fastify-030712?style=for-the-badge&logo=fastify)](https://fastify.dev/)` |
 | [![YFinance](https://img.shields.io/badge/yfinance-030712)](https://pypi.org/project/yfinance) | `[![YFinance](https://img.shields.io/badge/yfinance-030712)](https://pypi.org/project/yfinance)` |
 | [![Streamlit](https://img.shields.io/badge/streamlit-030712?style=for-the-badge&logo=streamlit)](https://streamlit.io/) | `[![Streamlit](https://img.shields.io/badge/streamlit-030712?style=for-the-badge&logo=streamlit)](https://streamlit.io/)` |
 | [![langchain](https://img.shields.io/badge/langchain-030712?style=for-the-badge&logo=langchain)](https://www.langchain.com/) | `[![langchain](https://img.shields.io/badge/langchain-030712?style=for-the-badge&logo=langchain)](https://www.langchain.com/)` |
