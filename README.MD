@@ -46,9 +46,13 @@
 | [![openai](https://img.shields.io/badge/openai-030712?style=for-the-badge&logo=openai)](https://platform.openai.com/docs/overview) | `[![openai](https://img.shields.io/badge/openai-030712?style=for-the-badge&logo=openai)](https://platform.openai.com/docs/overview)` |
 | [![vercel ai sdk](https://img.shields.io/badge/AI_SDK-030712?style=for-the-badge&logo=vercel)](https://sdk.vercel.ai/) | `[![vercel ai sdk](https://img.shields.io/badge/AI_SDK-030712?style=for-the-badge&logo=vercel)](https://sdk.vercel.ai/)` |
 | [![shadcnui](https://img.shields.io/badge/shadcnui-030712?style=for-the-badge&logo=shadcnui)](https://ui.shadcn.com/docs/installation) | `[![shadcnui](https://img.shields.io/badge/shadcnui-030712?style=for-the-badge&logo=shadcnui)](https://ui.shadcn.com/docs/installation)` |
-| [![styled-components](https://img.shields.io/badge/styled_components-030712?style=for-the-badge&logo=styledcomponents)](https://styled-components.com/) | `[![styled-components](https://img.shields.io/badge/styled_components-030712?style=for-the-badge&logo=styledcomponents)](https://styled-components.com/)` |
+| [![styled-components](https://img.shields.io/badge/styled--components-030712?style=for-the-badge&logo=styledcomponents)](https://styled-components.com/) | `[![styled-components](https://img.shields.io/badge/styled_components-030712?style=for-the-badge&logo=styledcomponents)](https://styled-components.com/)` |
 | [![nx](https://img.shields.io/badge/nx-030712?style=for-the-badge&logo=nx)](https://nx.dev/) | `[![nx](https://img.shields.io/badge/nx-030712?style=for-the-badge&logo=nx)](https://nx.dev/)` |
 | [![lerna](https://img.shields.io/badge/lerna-030712?style=for-the-badge&logo=lerna)](https://lerna.js.org/) | `[![lerna](https://img.shields.io/badge/lerna-030712?style=for-the-badge&logo=lerna)](https://lerna.js.org/)` |
+| [![Material UI](https://img.shields.io/badge/Material--UI-030712?style=for-the-badge&logo=mui)](https://mui.com/) | `[![Material UI](https://img.shields.io/badge/Material--UI-030712?style=for-the-badge&logo=mui)](https://mui.com/)` |
+| [![Jest](https://img.shields.io/badge/Jest-030712?style=for-the-badge&logo=jest)](https://jestjs.io/) | `[![Jest](https://img.shields.io/badge/Jest-030712?style=for-the-badge&logo=jest)](https://jestjs.io/)` |
+| [![Testing Library](https://img.shields.io/badge/Testing--Library-030712?style=for-the-badge&logo=Testing-Library)](https://testing-library.com/) | `[![Testing Library](https://img.shields.io/badge/Testing--Library-030712?style=for-the-badge&logo=Testing-Library)](https://testing-library.com/)` |
+| [![semantic-release](https://img.shields.io/badge/semantic--release-030712?style=for-the-badge&logo=semantic-release)](https://semantic-release.gitbook.io/semantic-release) | `[![semantic-release](https://img.shields.io/badge/semantic--release-030712?style=for-the-badge&logo=semantic-release)](https://semantic-release.gitbook.io/semantic-release)` |
 
 ### Database
 | Badge | URL |
@@ -61,6 +65,8 @@
 | [![docker](https://img.shields.io/badge/docker-030712?style=for-the-badge&logo=docker)](https://www.docker.com/) | `[![docker](https://img.shields.io/badge/docker-030712?style=for-the-badge&logo=docker)](https://www.docker.com/)` |
 | [![nodejs](https://img.shields.io/badge/node.js-030712?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/pt) | `[![nodejs](https://img.shields.io/badge/node.js-030712?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/pt)` |
 | [![webpack](https://img.shields.io/badge/webpack-030712?style=for-the-badge&logo=webpack)](https://webpack.js.org/) | `[![webpack](https://img.shields.io/badge/webpack-030712?style=for-the-badge&logo=webpack)](https://webpack.js.org/)` |
+| [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-030712?style=for-the-badge&logo=GitHub-Actions)](https://docs.github.com/pt/actions) | `[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-030712?style=for-the-badge&logo=GitHub-Actions)](https://docs.github.com/pt/actions)` |
+| [![Vercel](https://img.shields.io/badge/Vercel-030712?style=for-the-badge&logo=Vercel)](https://vercel.com/) | `[![Vercel](https://img.shields.io/badge/Vercel-030712?style=for-the-badge&logo=Vercel)](https://vercel.com/)` |
 
 ### Do it yourself
 | Badge | URL |
