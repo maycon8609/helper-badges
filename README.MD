@@ -67,6 +67,7 @@
 | [![webpack](https://img.shields.io/badge/webpack-030712?style=for-the-badge&logo=webpack)](https://webpack.js.org/) | `[![webpack](https://img.shields.io/badge/webpack-030712?style=for-the-badge&logo=webpack)](https://webpack.js.org/)` |
 | [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-030712?style=for-the-badge&logo=GitHub-Actions)](https://docs.github.com/pt/actions) | `[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-030712?style=for-the-badge&logo=GitHub-Actions)](https://docs.github.com/pt/actions)` |
 | [![Vercel](https://img.shields.io/badge/Vercel-030712?style=for-the-badge&logo=Vercel)](https://vercel.com/) | `[![Vercel](https://img.shields.io/badge/Vercel-030712?style=for-the-badge&logo=Vercel)](https://vercel.com/)` |
+| [![Html](https://img.shields.io/badge/Html-030712?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | `[![Html](https://img.shields.io/badge/Html-030712?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)` |
 
 ### Do it yourself
 | Badge | URL |
