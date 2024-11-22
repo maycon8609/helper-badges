@@ -64,10 +64,10 @@
 ### AWS
 | Badge | URL |
 | ----- | --- |
-| [![aws-lambda](https://img.shields.io/badge/aws--lambda-030712?style=for-the-badge&logo=awslambda)](https://aws.amazon.com/pt/lambda/) | `[![aws-lambda](https://img.shields.io/badge/aws--lambda-030712?style=for-the-badge&logo=awslambda)](https://aws.amazon.com/pt/lambda/)` |
-| [![amazon-s3](https://img.shields.io/badge/amazon--s3-030712?style=for-the-badge&logo=amazons3)](https://aws.amazon.com/pt/s3/) | `[![amazon-s3](https://img.shields.io/badge/amazon--s3-030712?style=for-the-badge&logo=amazons3)](https://aws.amazon.com/pt/s3/)` |
-| [![amazon api gateway](https://img.shields.io/badge/amazon_api_gateway-030712?style=for-the-badge&logo=amazonapigateway)](https://aws.amazon.com/pt/api-gateway/) | `[![amazon api gateway](https://img.shields.io/badge/amazon_api_gateway-030712?style=for-the-badge&logo=amazonapigateway)](https://aws.amazon.com/pt/api-gateway/)` |
-| [![amazon cloud watch](https://img.shields.io/badge/amazon_cloud_watch-030712?style=for-the-badge&logo=amazoncloudwatch)](https://aws.amazon.com/pt/cloudwatch/) | `[![amazon cloud watch](https://img.shields.io/badge/amazon_cloud_watch-030712?style=for-the-badge&logo=amazoncloudwatch)](https://aws.amazon.com/pt/cloudwatch/)` |
+| [![Lambda](https://img.shields.io/badge/Lambda-030712?style=for-the-badge&logo=awslambda)](https://aws.amazon.com/pt/lambda/) | `[![aws-lambda](https://img.shields.io/badge/aws--lambda-030712?style=for-the-badge&logo=awslambda)](https://aws.amazon.com/pt/lambda/)` |
+| [![S3](https://img.shields.io/badge/S3-030712?style=for-the-badge&logo=amazons3)](https://aws.amazon.com/pt/s3/) | `[![amazon-s3](https://img.shields.io/badge/amazon--s3-030712?style=for-the-badge&logo=amazons3)](https://aws.amazon.com/pt/s3/)` |
+| [![api gateway](https://img.shields.io/badge/api_gateway-030712?style=for-the-badge&logo=amazonapigateway)](https://aws.amazon.com/pt/api-gateway/) | `[![amazon api gateway](https://img.shields.io/badge/amazon_api_gateway-030712?style=for-the-badge&logo=amazonapigateway)](https://aws.amazon.com/pt/api-gateway/)` |
+| [![cloud watch](https://img.shields.io/badge/cloud_watch-030712?style=for-the-badge&logo=amazoncloudwatch)](https://aws.amazon.com/pt/cloudwatch/) | `[![amazon cloud watch](https://img.shields.io/badge/amazon_cloud_watch-030712?style=for-the-badge&logo=amazoncloudwatch)](https://aws.amazon.com/pt/cloudwatch/)` |
 
 ### Others
 | Badge | URL |
