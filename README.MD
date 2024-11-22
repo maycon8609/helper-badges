@@ -17,6 +17,7 @@
 | [![typescript](https://img.shields.io/badge/typescript-030712?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/) | `[![typescript](https://img.shields.io/badge/typescript-030712?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)` |
 | [![Python](https://img.shields.io/badge/python-030712?style=for-the-badge&logo=python)](https://www.python.org/) | `[![Python](https://img.shields.io/badge/python-030712?style=for-the-badge&logo=python)](https://www.python.org/)` |
 | [![go](https://img.shields.io/badge/go-030712?style=for-the-badge&logo=go)](https://go.dev/) | `[![go](https://img.shields.io/badge/go-030712?style=for-the-badge&logo=go)](https://go.dev/)` |
+| [![java](https://img.shields.io/badge/java-030712?style=for-the-badge&logo=java)](https://www.java.com/pt-BR/) | `[![java](https://img.shields.io/badge/java-030712?style=for-the-badge&logo=java)](https://www.java.com/pt-BR/)` |
 
 ### Frameworks
 | Badge | URL |
