@@ -4,6 +4,7 @@
   - [Frameworks](#frameworks)
   - [Libraries](#libraries)
   - [Database](#database)
+  - [AWS](#aws)
   - [Others](#others)
 - [Do it yourself](#do-it-yourself)
 - [Referencies](#referencies)
@@ -59,6 +60,14 @@
 | Badge | URL |
 | ----- | --- |
 | [![postgresql](https://img.shields.io/badge/postgresql-030712?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/) | `[![postgresql](https://img.shields.io/badge/postgresql-030712?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)` |
+
+### AWS
+| Badge | URL |
+| ----- | --- |
+| [[![aws-lambda](https://img.shields.io/badge/aws--lambda-030712?style=for-the-badge&logo=awslambda)](https://aws.amazon.com/pt/lambda/) | `[![aws-lambda](https://img.shields.io/badge/aws--lambda-030712?style=for-the-badge&logo=awslambda)](https://aws.amazon.com/pt/lambda/)` |
+| [![amazon-s3](https://img.shields.io/badge/amazon--s3-030712?style=for-the-badge&logo=amazons3)](https://aws.amazon.com/pt/s3/) | `[![amazon-s3](https://img.shields.io/badge/amazon--s3-030712?style=for-the-badge&logo=amazons3)](https://aws.amazon.com/pt/s3/)` |
+| [![amazon api gateway](https://img.shields.io/badge/amazon_api_gateway-030712?style=for-the-badge&logo=amazonapigateway)](https://aws.amazon.com/pt/api-gateway/) | `[![amazon api gateway](https://img.shields.io/badge/amazon_api_gateway-030712?style=for-the-badge&logo=amazonapigateway)](https://aws.amazon.com/pt/api-gateway/)` |
+| [![amazon cloud watch](https://img.shields.io/badge/amazon_cloud_watch-030712?style=for-the-badge&logo=amazoncloudwatch)](https://aws.amazon.com/pt/cloudwatch/) | `[![amazon cloud watch](https://img.shields.io/badge/amazon_cloud_watch-030712?style=for-the-badge&logo=amazoncloudwatch)](https://aws.amazon.com/pt/cloudwatch/)` |
 
 ### Others
 | Badge | URL |
