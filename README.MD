@@ -19,6 +19,7 @@
 | [![Python](https://img.shields.io/badge/python-030712?style=for-the-badge&logo=python)](https://www.python.org/) | `[![Python](https://img.shields.io/badge/python-030712?style=for-the-badge&logo=python)](https://www.python.org/)` |
 | [![go](https://img.shields.io/badge/go-030712?style=for-the-badge&logo=go)](https://go.dev/) | `[![go](https://img.shields.io/badge/go-030712?style=for-the-badge&logo=go)](https://go.dev/)` |
 | [![java](https://img.shields.io/badge/java-030712?style=for-the-badge&logo=java)](https://www.java.com/pt-BR/) | `[![java](https://img.shields.io/badge/java-030712?style=for-the-badge&logo=java)](https://www.java.com/pt-BR/)` |
+| [![kotlin](https://img.shields.io/badge/kotlin-030712?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/) | `[![kotlin](https://img.shields.io/badge/kotlin-030712?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)` |
 
 ### Frameworks
 | Badge | URL |
