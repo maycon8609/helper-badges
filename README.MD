@@ -25,9 +25,10 @@
 | Badge | URL |
 | ----- | --- |
 | [![nextjs](https://img.shields.io/badge/nextjs-030712?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/) | `[![nextjs](https://img.shields.io/badge/nextjs-030712?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)` |
+| [![react](https://img.shields.io/badge/react-030712?style=for-the-badge&logo=react)](https://react.dev/) | `[![react](https://img.shields.io/badge/react-030712?style=for-the-badge&logo=react)](https://react.dev/)` |
 | [![react native](https://img.shields.io/badge/react_native-030712?style=for-the-badge&logo=react)](https://reactnative.dev/) | `[![reactnative](https://img.shields.io/badge/reactnative-030712?style=for-the-badge&logo=react)](https://reactnative.dev/)` |
-| [![angular js](https://img.shields.io/badge/angularJS-030712?style=for-the-badge&logo=angular)](https://angularjs.org/) | `[![reactnative](https://img.shields.io/badge/reactnative-030712?style=for-the-badge&logo=react)](https://angularjs.org/)` |
-| [![angular](https://img.shields.io/badge/angular-030712?style=for-the-badge&logo=angular)](https://angular.dev/) | `[![reactnative](https://img.shields.io/badge/angular-030712?style=for-the-badge&logo=angular)](https://angular.dev/)` |
+| [![angular js](https://img.shields.io/badge/angularJS-030712?style=for-the-badge&logo=angular)](https://angularjs.org/) | `[![angular js](https://img.shields.io/badge/angularJS-030712?style=for-the-badge&logo=angular)](https://angularjs.org/))` |
+| [![angular](https://img.shields.io/badge/angular-030712?style=for-the-badge&logo=angular)](https://angular.dev/) | `[![angular](https://img.shields.io/badge/angular-030712?style=for-the-badge&logo=angular)](https://angular.dev/)` |
 | [![spring-boot](https://img.shields.io/badge/spring_boot-030712?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot) | `[![spring-boot](https://img.shields.io/badge/springboot-030712?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)` |
 | [![fastify](https://img.shields.io/badge/fastify-030712?style=for-the-badge&logo=fastify)](https://fastify.dev/) | `[![fastify](https://img.shields.io/badge/fastify-030712?style=for-the-badge&logo=fastify)](https://fastify.dev/)` |
 | [![vite js](https://img.shields.io/badge/vitejs-030712?style=for-the-badge&logo=vite)](https://vitejs.dev/) | `[![vite js](https://img.shields.io/badge/vitejs-030712?style=for-the-badge&logo=vite)](https://vitejs.dev/)` |
